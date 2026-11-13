@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neto\\Desktop\\PAII\\proyecto final algoritmos 2\\proyecto final algoritmos 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A83B75C9-A224-ADC5-C4D7-5A61941166B9}|proyecto final algoritmos 2.csproj|c:\\users\\neto\\desktop\\paii\\proyecto final algoritmos 2\\proyecto final algoritmos 2\\proyecto final algoritmos 2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A83B75C9-A224-ADC5-C4D7-5A61941166B9}|proyecto final algoritmos 2.csproj|solutionrelative:proyecto final algoritmos 2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83B75C9-A224-ADC5-C4D7-5A61941166B9}|proyecto final algoritmos 2.csproj|c:\\users\\neto\\desktop\\paii\\proyecto final algoritmos 2\\proyecto final algoritmos 2\\supermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83B75C9-A224-ADC5-C4D7-5A61941166B9}|proyecto final algoritmos 2.csproj|solutionrelative:supermercado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83B75C9-A224-ADC5-C4D7-5A61941166B9}|proyecto final algoritmos 2.csproj|c:\\users\\neto\\desktop\\paii\\proyecto final algoritmos 2\\proyecto final algoritmos 2\\arbolavl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83B75C9-A224-ADC5-C4D7-5A61941166B9}|proyecto final algoritmos 2.csproj|solutionrelative:arbolavl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83B75C9-A224-ADC5-C4D7-5A61941166B9}|proyecto final algoritmos 2.csproj|c:\\users\\neto\\desktop\\paii\\proyecto final algoritmos 2\\proyecto final algoritmos 2\\nodoavl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83B75C9-A224-ADC5-C4D7-5A61941166B9}|proyecto final algoritmos 2.csproj|solutionrelative:nodoavl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83B75C9-A224-ADC5-C4D7-5A61941166B9}|proyecto final algoritmos 2.csproj|c:\\users\\neto\\desktop\\paii\\proyecto final algoritmos 2\\proyecto final algoritmos 2\\colaprioridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83B75C9-A224-ADC5-C4D7-5A61941166B9}|proyecto final algoritmos 2.csproj|solutionrelative:colaprioridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83B75C9-A224-ADC5-C4D7-5A61941166B9}|proyecto final algoritmos 2.csproj|c:\\users\\neto\\desktop\\paii\\proyecto final algoritmos 2\\proyecto final algoritmos 2\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83B75C9-A224-ADC5-C4D7-5A61941166B9}|proyecto final algoritmos 2.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "menu.cs",
+              "DocumentMoniker": "C:\\Users\\neto\\Desktop\\PAII\\proyecto final algoritmos 2\\proyecto final algoritmos 2\\menu.cs",
+              "RelativeDocumentMoniker": "menu.cs",
+              "ToolTip": "C:\\Users\\neto\\Desktop\\PAII\\proyecto final algoritmos 2\\proyecto final algoritmos 2\\menu.cs",
+              "RelativeToolTip": "menu.cs",
+              "ViewState": "AgIAACcCAAAAAAAAAAAmwFkCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T19:00:11.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "colaprioridad.cs",
+              "DocumentMoniker": "C:\\Users\\neto\\Desktop\\PAII\\proyecto final algoritmos 2\\proyecto final algoritmos 2\\colaprioridad.cs",
+              "RelativeDocumentMoniker": "colaprioridad.cs",
+              "ToolTip": "C:\\Users\\neto\\Desktop\\PAII\\proyecto final algoritmos 2\\proyecto final algoritmos 2\\colaprioridad.cs",
+              "RelativeToolTip": "colaprioridad.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAqwLoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:55:16.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "nodoAVL.cs",
+              "DocumentMoniker": "C:\\Users\\neto\\Desktop\\PAII\\proyecto final algoritmos 2\\proyecto final algoritmos 2\\nodoAVL.cs",
+              "RelativeDocumentMoniker": "nodoAVL.cs",
+              "ToolTip": "C:\\Users\\neto\\Desktop\\PAII\\proyecto final algoritmos 2\\proyecto final algoritmos 2\\nodoAVL.cs",
+              "RelativeToolTip": "nodoAVL.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA8wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:46:16.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "arbolAVL.cs",
+              "DocumentMoniker": "C:\\Users\\neto\\Desktop\\PAII\\proyecto final algoritmos 2\\proyecto final algoritmos 2\\arbolAVL.cs",
+              "RelativeDocumentMoniker": "arbolAVL.cs",
+              "ToolTip": "C:\\Users\\neto\\Desktop\\PAII\\proyecto final algoritmos 2\\proyecto final algoritmos 2\\arbolAVL.cs",
+              "RelativeToolTip": "arbolAVL.cs",
+              "ViewState": "AgIAAIwBAAAAAAAAAAAmwK0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:43:05.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "supermercado.cs",
+              "DocumentMoniker": "C:\\Users\\neto\\Desktop\\PAII\\proyecto final algoritmos 2\\proyecto final algoritmos 2\\supermercado.cs",
+              "RelativeDocumentMoniker": "supermercado.cs",
+              "ToolTip": "C:\\Users\\neto\\Desktop\\PAII\\proyecto final algoritmos 2\\proyecto final algoritmos 2\\supermercado.cs",
+              "RelativeToolTip": "supermercado.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:38:56.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "proyecto final algoritmos 2.csproj",
+              "DocumentMoniker": "C:\\Users\\neto\\Desktop\\PAII\\proyecto final algoritmos 2\\proyecto final algoritmos 2\\proyecto final algoritmos 2.csproj",
+              "RelativeDocumentMoniker": "proyecto final algoritmos 2.csproj",
+              "ToolTip": "C:\\Users\\neto\\Desktop\\PAII\\proyecto final algoritmos 2\\proyecto final algoritmos 2\\proyecto final algoritmos 2.csproj",
+              "RelativeToolTip": "proyecto final algoritmos 2.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-09T17:17:21.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

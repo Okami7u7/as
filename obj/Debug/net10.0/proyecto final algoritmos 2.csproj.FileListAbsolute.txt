@@ -1,0 +1,15 @@
+C:\Users\neto\Desktop\PAII\proyecto final algoritmos 2\proyecto final algoritmos 2\bin\Debug\net10.0\proyecto final algoritmos 2.exe
+C:\Users\neto\Desktop\PAII\proyecto final algoritmos 2\proyecto final algoritmos 2\bin\Debug\net10.0\proyecto final algoritmos 2.deps.json
+C:\Users\neto\Desktop\PAII\proyecto final algoritmos 2\proyecto final algoritmos 2\bin\Debug\net10.0\proyecto final algoritmos 2.runtimeconfig.json
+C:\Users\neto\Desktop\PAII\proyecto final algoritmos 2\proyecto final algoritmos 2\bin\Debug\net10.0\proyecto final algoritmos 2.dll
+C:\Users\neto\Desktop\PAII\proyecto final algoritmos 2\proyecto final algoritmos 2\bin\Debug\net10.0\proyecto final algoritmos 2.pdb
+C:\Users\neto\Desktop\PAII\proyecto final algoritmos 2\proyecto final algoritmos 2\obj\Debug\net10.0\proyecto final algoritmos 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neto\Desktop\PAII\proyecto final algoritmos 2\proyecto final algoritmos 2\obj\Debug\net10.0\proyecto final algoritmos 2.AssemblyInfoInputs.cache
+C:\Users\neto\Desktop\PAII\proyecto final algoritmos 2\proyecto final algoritmos 2\obj\Debug\net10.0\proyecto final algoritmos 2.AssemblyInfo.cs
+C:\Users\neto\Desktop\PAII\proyecto final algoritmos 2\proyecto final algoritmos 2\obj\Debug\net10.0\proyecto final algoritmos 2.csproj.CoreCompileInputs.cache
+C:\Users\neto\Desktop\PAII\proyecto final algoritmos 2\proyecto final algoritmos 2\obj\Debug\net10.0\proyecto final algoritmos 2.dll
+C:\Users\neto\Desktop\PAII\proyecto final algoritmos 2\proyecto final algoritmos 2\obj\Debug\net10.0\refint\proyecto final algoritmos 2.dll
+C:\Users\neto\Desktop\PAII\proyecto final algoritmos 2\proyecto final algoritmos 2\obj\Debug\net10.0\proyecto final algoritmos 2.pdb
+C:\Users\neto\Desktop\PAII\proyecto final algoritmos 2\proyecto final algoritmos 2\obj\Debug\net10.0\proyecto final algoritmos 2.genruntimeconfig.cache
+C:\Users\neto\Desktop\PAII\proyecto final algoritmos 2\proyecto final algoritmos 2\obj\Debug\net10.0\ref\proyecto final algoritmos 2.dll
+C:\Users\neto\Desktop\PAII\proyecto final algoritmos 2\proyecto final algoritmos 2\obj\Debug\net10.0\proyecto.FC050FBB.Up2Date
